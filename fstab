@@ -1,0 +1,45 @@
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/sda11 LABEL=FileSystem
+UUID=f9d3535f-c4d7-4159-8b3d-47c12d406ea7	/         	ext4      	rw,relatime	0 1
+
+# /dev/sda1 LABEL=SYSTEM
+UUID=364D-773F      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/sda8 LABEL=var
+UUID=6ab8a7cf-0e92-4a51-9a51-549292382d55	/var      	ext4      	rw,relatime	0 2
+
+# /dev/sda9
+UUID=02c9b48c-bfcb-4381-add6-fd1eaa15b823	/home     	ext4      	rw,relatime	0 2
+
+# /dev/sda10
+UUID=92c89902-36e7-4272-a047-3e8bee1dcfef	none      	swap      	defaults  0 0
+
+# /dev/sda11 LABEL=FileSystem
+UUID=f9d3535f-c4d7-4159-8b3d-47c12d406ea7	/         	ext4      	rw,relatime	0 1
+
+# /dev/sda1 LABEL=SYSTEM
+UUID=364D-773F      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/sda9
+UUID=02c9b48c-bfcb-4381-add6-fd1eaa15b823	/home     	ext4      	rw,relatime	0 2
+
+# /dev/sda8 LABEL=var
+UUID=6ab8a7cf-0e92-4a51-9a51-549292382d55	/var      	ext4      	rw,relatime	0 2
+
+# /dev/sda10
+UUID=92c89902-36e7-4272-a047-3e8bee1dcfef	none      	swap      	defaults  0 0
+
+# /dev/sda11 LABEL=FileSystem
+UUID=f9d3535f-c4d7-4159-8b3d-47c12d406ea7	/         	ext4      	rw,relatime	0 1
+
+# /dev/sda1 LABEL=SYSTEM
+UUID=364D-773F      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/sda9
+UUID=02c9b48c-bfcb-4381-add6-fd1eaa15b823	/home     	ext4      	rw,relatime	0 2
+
+# /dev/sda8 LABEL=var
+UUID=6ab8a7cf-0e92-4a51-9a51-549292382d55	/var      	ext4      	rw,relatime	0 2
+
+# /dev/sda10
+UUID=92c89902-36e7-4272-a047-3e8bee1dcfef	none      	swap      	defaults  0 0
