@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: <script>console.error(1);</script>
-  description: <img src="x" onerror="alert(2)" />
+  description: <img src="https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/XSS%20Injection/Files/SVG_XSS.svg" onerror="alert(2)" />
 paths:
   /:
     get:
